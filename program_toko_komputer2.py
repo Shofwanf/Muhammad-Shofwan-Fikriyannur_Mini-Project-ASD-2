@@ -175,6 +175,12 @@ def main():
         Produk("ASUS ROG Zephyrus G16 GU603ZU", 24199000, 4, "ASUS", "Laptop Gaming"),
         Produk("NVIDIA GeForce RTX 3060", 4475000, 4, "GIGABYTE", "Vga Card"),
         Produk("AMD Ryzen 5 5600G", 2179000, 5, "AMD", "Processor"),
+        Produk("MSI PRO B660M-A DDR4", 1800000, 7, "MSI", "Motherboard"),
+        Produk("DDR4 32GB (2x16GB) Corsair Vengeance LPX", 1350000, 6, "CORSAIR", "RAM"),
+        Produk("NVMe M.2 1TB Samsung 980 Pro", 3200000, 4, "Samsung", "SSD"),
+        Produk("ASUS Vivobook Pro 14 OLED M3401Q1-KM043W", 13000000, 2, "ASUS", "Laptop"),
+        Produk("AMD Ryzen 9 7950X", 14000000, 6, "AMD", "Processor"),
+        Produk("NVIDIA GeForce RTX 4070 Ti", 10000000, 2, "COLORFUL", "Vga Card"),
     ]
 
     for produk in produk_baru:
